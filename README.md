@@ -1,4 +1,4 @@
-# Linux System Manager
+# TaskManager
 
 ### Task Manager & Device Manager for Linux
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**Linux System Manager** is a custom-built system monitoring and management tool for Linux, inspired by the functionality of the Windows Task Manager and Device Manager.
+**TaskManager** is a custom-built system monitoring and management tool for Linux, inspired by the functionality of the Windows Task Manager and Device Manager.
 
 The goal of this project is to provide a **centralized, user-friendly graphical interface** to monitor system performance, manage processes, inspect services, and view hardware information.
 
@@ -66,8 +66,8 @@ The goal of this project is to provide a **centralized, user-friendly graphical 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-system-manager.git
-cd linux-system-manager
+git clone https://github.com/YOUR_USERNAME/TaskManager.git
+cd TaskManager
 ```
 
 ### 2. Install dependencies
